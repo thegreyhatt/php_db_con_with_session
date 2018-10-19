@@ -1,8 +1,2 @@
-# PHP DB(mysqli) Connection
+# PHP DB(mysqli) Connection and Session
 Guide repo.
-
-### Assignment:
-
-* add edit.php to edit individual user
-* add password field
-* add login mechanism
